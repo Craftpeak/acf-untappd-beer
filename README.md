@@ -2,6 +2,8 @@
 
 This is a custom field for ACF (version 5.6.0 or later only) which adds an AJAX-powered Untappd Beer Picker.
 
+![acf-untappd-beer](https://user-images.githubusercontent.com/2278221/43054134-18b808f6-8dfe-11e8-8831-22e534b5ea9d.gif)
+
 It uses Select2's [AJAX functionality](https://select2.org/data-sources/ajax) on search to grab 5 beers from the Untappd API
 and displays them as options. Once selected, the selected Beer's ID is saved to the database for later use as you see fit.
 On field init, if there is a value saved, it grabs the selected beer from the API to display a friendly name (Brewery Name & Beer Name).  
