@@ -1,0 +1,15 @@
+{
+  "name"        : "craftpeak/acf-untappd-beer",
+  "description" : "This is a custom field for ACF which adds an AJAX-powered Untappd Beer Picker.",
+  "keywords"    : ["wordpress","acf"],
+  "homepage"    : "https://github.com/Craftpeak/acf-untappd-beer/",
+  "license"     : "GPL-3.0+",
+  "type"        : "wordpress-plugin",
+  "authors"     : [
+    {
+      "name"     : "Craftpeak",
+      "email"    : "hello@craftpeak.com",
+      "homepage" : "https://craftpeak.com"
+    }
+  ]
+}
